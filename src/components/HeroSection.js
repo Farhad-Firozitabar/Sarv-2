@@ -62,10 +62,7 @@ const HeroSection = () => {
               Contact Us
             </Button>
           </div>
-          <div className="col-md-5">
-            {/* Add an image */}
-            <img />
-          </div>
+      
         </div>
       </div>
 
